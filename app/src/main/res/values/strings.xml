@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Communication Example</string>
+    <string name="label_launch_nfc_reader">Launch NFC Reader</string>
+</resources>
